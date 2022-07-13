@@ -195,9 +195,7 @@
 符号位1位  阶码8位  小数位23位
 ```
 
-![img](https:////upload-images.jianshu.io/upload_images/768577-48286a0b3d271066.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
-
-单精度.jpg
+![png1](/Users/mzc/Desktop/mzc learn/lecture/corejava/corejava/png1.webp)
 
 双精度浮点数用64位二进制表示如下：
 
@@ -205,7 +203,7 @@
 符号位1位  阶码11位  小数位52位
 ```
 
-![img](https:////upload-images.jianshu.io/upload_images/768577-25a90cd5cc42e098.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
+![2png](/Users/mzc/Desktop/mzc learn/lecture/corejava/corejava/2png.webp)
 
 双精度.png
 
