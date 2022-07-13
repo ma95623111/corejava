@@ -14,7 +14,7 @@ public class TypeConversion  {
      * 以下是自动转换演示代码
      */
     @Test
-    public void integerAutoConversion(){
+    protected void integerAutoConversion(){
         byte b = 1;
         short s = b;
         int i = s;
